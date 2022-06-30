@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
                 output?.text = "Вы овен"
             else
                 output?.text = "ладно."
-            }
+        }
         else
             output?.text = "Данные введены некорректно."
     }

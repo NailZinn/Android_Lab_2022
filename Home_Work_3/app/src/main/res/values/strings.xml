@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project_3</string>
+    <string name="list_of_pacific_ocean_countries">List of Pacific ocean countries</string>
+    <string name="country_information">Country information</string>
+    <string name="australia">Australia</string>
+    <string name="canberra">Canberra</string>
+</resources>
